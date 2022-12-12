@@ -541,6 +541,9 @@ i {
     color: #86e7b8;
     margin-right: 5px;
 }
+.footer ul li a {
+    color:#000;
+}
 .footer  .contact {
     margin-top: -25px;
 }
